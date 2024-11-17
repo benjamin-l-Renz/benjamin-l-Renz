@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benjamin
-- 👀 I’m interested in coding
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
