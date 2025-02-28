@@ -13,9 +13,7 @@
 - **Tools**: Git, Docker, Jenkins, Kubernetes
 - **Databases**: LightDB (C#)
 
-## GitHub Stats
 
-![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjamin-l-Renz&show_icons=true&theme=radical)
 
 ## Get in Touch
 
