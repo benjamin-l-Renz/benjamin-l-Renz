@@ -8,8 +8,8 @@
 
 ## Skills
 
-- **Languages**: C#, Python
-- **Frameworks**: Monogame, Raylib-cs, Pygame
+- **Languages**: C#, Python, lua
+- **Frameworks**: Monogame, Raylib-cs, Pygame, Serilog (C#)
 - **Tools**: Git, Docker, Jenkins, Kubernetes
 - **Databases**: LightDB (C#)
 
