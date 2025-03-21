@@ -11,7 +11,7 @@
 - **Languages**: C#, Python, lua
 - **Frameworks**: Monogame, Raylib-cs, Pygame, Serilog (C#)
 - **Tools**: Git, Docker, Jenkins, Kubernetes
-- **Databases**: LightDB (C#)
+- **Databases**: LiteDB (C#)
 
 
 
