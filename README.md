@@ -69,6 +69,10 @@ I'm a systems-oriented developer passionate about building engines, tools, and s
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benjamin-l-Renz&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+---
+
 ## 📫 Stay Connected
 
 Follow me on github for devlogs, tools, and community updates. Contributions, feedback, and ideas are always welcome!
